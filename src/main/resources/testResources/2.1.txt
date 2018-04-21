@@ -1,0 +1,17 @@
+// 1xx Informational
+100 : "Continue"
+102 : "Processing"
+103 : "Checkpoint"
+
+// 2xx Success
+200 : "OK"
+201 : "Created"
+202 : "Accepted"
+
+// 3xx Redirection
+302 : "Found"
+
+// 4xx Client Error
+401 : "Unauthorized"
+409 : "Conflict"
+410 : "Gone"
